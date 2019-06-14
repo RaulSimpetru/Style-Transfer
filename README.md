@@ -1,6 +1,6 @@
 # Style-Transfer
-This script has been inspired by this ![tutorial](https://www.tensorflow.org/beta/tutorials/generative/style_transfer) made by tensorflow.org.  
-The script allows for command line arguments and also for saving your new image (this didn't work for me in the code provided in the ![tutorial](https://www.tensorflow.org/beta/tutorials/generative/style_transfer)).
+This script has been inspired by this [tutorial](https://www.tensorflow.org/beta/tutorials/generative/style_transfer) made by tensorflow.org.  
+The script allows for command line arguments and also for saving your new image (this didn't work for me in the code provided in the [tutorial](https://www.tensorflow.org/beta/tutorials/generative/style_transfer)).
 ## Prerequisites
 I strongly encourage you to use tensorflow-gpu because it is so much faster than its cpu counterpart.
 ```
@@ -25,7 +25,7 @@ python create_new_image.py -i Photo.jpg -s style.jpg -d 1200 -e 5
 ```
 
 ## Example
-For the input, I will use a picture I took on my vacation in Italy. The style will be an abstract picture I found on ![Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) made by ![Lønfeldt](https://unsplash.com/@artbylonfeldt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+For the input, I will use a picture I took on my vacation in Italy. The style will be an abstract picture I found on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) made by [Lønfeldt](https://unsplash.com/@artbylonfeldt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 #### Input
 ![](Photo.jpg)
