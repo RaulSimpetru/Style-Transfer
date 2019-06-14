@@ -26,6 +26,10 @@ python create_new_image.py -i Photo.jpg -s style.jpg -d 1200 -e 5
 
 ## Example
 For the input I will use a picture I took an my vacation in Italy. The style will be an abstract picture I found ![Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) made by ![Lønfeldt](https://unsplash.com/@artbylonfeldt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+
+#### Input
 ![](Photo.jpg)
-![](Style.jpg)
-![](New Image.png)
+#### Style
+![](style.jpg)
+#### Output
+![](NewImage.png)
